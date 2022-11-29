@@ -1,0 +1,7 @@
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.csproj.AssemblyReference.cache
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.AssemblyInfoInputs.cache
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.AssemblyInfo.cs
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.csproj.CoreCompileInputs.cache
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Draft\TestCode\TestApi\TestApi\obj\Debug\net6.0\TestApi.MvcApplicationPartsAssemblyInfo.cache
