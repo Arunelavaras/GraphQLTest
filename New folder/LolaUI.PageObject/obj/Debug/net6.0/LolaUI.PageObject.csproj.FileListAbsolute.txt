@@ -1,0 +1,12 @@
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\bin\Debug\net6.0\LolaUI.PageObject.deps.json
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\bin\Debug\net6.0\LolaUI.PageObject.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\bin\Debug\net6.0\LolaUI.PageObject.pdb
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.csproj.AssemblyReference.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.AssemblyInfoInputs.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.AssemblyInfo.cs
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.csproj.CoreCompileInputs.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\refint\LolaUI.PageObject.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\LolaUI.PageObject.pdb
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.PageObject\obj\Debug\net6.0\ref\LolaUI.PageObject.dll
