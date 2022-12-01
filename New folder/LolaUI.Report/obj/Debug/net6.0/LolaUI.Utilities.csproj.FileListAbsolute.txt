@@ -1,0 +1,12 @@
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\bin\Debug\net6.0\LolaUI.Utilities.deps.json
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\bin\Debug\net6.0\LolaUI.Utilities.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\bin\Debug\net6.0\LolaUI.Utilities.pdb
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.csproj.AssemblyReference.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.AssemblyInfoInputs.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.AssemblyInfo.cs
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\refint\LolaUI.Utilities.dll
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\LolaUI.Utilities.pdb
+C:\Users\mukesh.pasi\OneDrive - Apexon\Desktop\Qa-demo\UI\LolaUI.Report\obj\Debug\net6.0\ref\LolaUI.Utilities.dll

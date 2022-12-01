@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2opW/G0nRxBvrRIIlMKqd2CkzAFwtiJ3CWOazfKzS6bZE1KJIEvJDTX+kTic2D80avJ1WenI3zetjO3iuMLoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mukesh.pasi\\OneDrive - Apexon\\Desktop\\Qa-demo\\UI\\LolaUI.PageObject\\LolaUI.PageObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mukesh.pasi\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\mukesh.pasi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mukesh.pasi\\.nuget\\packages\\selenium.support\\4.6.0\\selenium.support.4.6.0.nupkg.sha512",
+    "C:\\Users\\mukesh.pasi\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
